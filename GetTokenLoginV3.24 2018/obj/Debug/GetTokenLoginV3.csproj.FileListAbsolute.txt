@@ -1,0 +1,45 @@
+C:\Users\Ederson\Desktop\FirewayAuth\bin\Debug\GetTokenLoginV3.exe.config
+C:\Users\Ederson\Desktop\FirewayAuth\bin\Debug\GetTokenLoginV3.exe
+C:\Users\Ederson\Desktop\FirewayAuth\bin\Debug\GetTokenLoginV3.pdb
+C:\Users\Ederson\Desktop\FirewayAuth\obj\Debug\GetTokenLoginV3.csproj.CoreCompileInputs.cache
+C:\Users\Ederson\Desktop\FirewayAuth\obj\Debug\GetTokenLoginV3.exe
+C:\Users\Ederson\Desktop\FirewayAuth\obj\Debug\GetTokenLoginV3.pdb
+C:\Users\Ederson\Desktop\FirewayAuth\obj\Debug\GetTokenLoginV3.csprojAssemblyReference.cache
+C:\Users\Ederson\Desktop\Development\GetTokenLoginV3\bin\Debug\GetTokenLoginV3.exe.config
+C:\Users\Ederson\Desktop\Development\GetTokenLoginV3\bin\Debug\GetTokenLoginV3.exe
+C:\Users\Ederson\Desktop\Development\GetTokenLoginV3\bin\Debug\GetTokenLoginV3.pdb
+C:\Users\Ederson\Desktop\Development\GetTokenLoginV3\obj\Debug\GetTokenLoginV3.csproj.CoreCompileInputs.cache
+C:\Users\Ederson\Desktop\Development\GetTokenLoginV3\obj\Debug\GetTokenLoginV3.exe
+C:\Users\Ederson\Desktop\Development\GetTokenLoginV3\obj\Debug\GetTokenLoginV3.pdb
+C:\Users\Ederson\Desktop\Development\GetTokenLoginV3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ederson\Desktop\Development\GetTokenLoginV3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ederson\Desktop\Development\GetTokenLoginV3\obj\Debug\GetTokenLoginV3.csproj.CopyComplete
+C:\Users\Ederson\Desktop\Development\GetTokenLoginV3\obj\Debug\GetTokenLoginV3.csprojAssemblyReference.cache
+C:\Users\eders\Desktop\GetTokenLoginV3\bin\Debug\GetTokenLoginV3.exe.config
+C:\Users\eders\Desktop\GetTokenLoginV3\bin\Debug\GetTokenLoginV3.exe
+C:\Users\eders\Desktop\GetTokenLoginV3\bin\Debug\GetTokenLoginV3.pdb
+C:\Users\eders\Desktop\GetTokenLoginV3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eders\Desktop\GetTokenLoginV3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eders\Desktop\GetTokenLoginV3\obj\Debug\GetTokenLoginV3.csproj.CoreCompileInputs.cache
+C:\Users\eders\Desktop\GetTokenLoginV3\obj\Debug\GetTokenLoginV3.csproj.CopyComplete
+C:\Users\eders\Desktop\GetTokenLoginV3\obj\Debug\GetTokenLoginV3.exe
+C:\Users\eders\Desktop\GetTokenLoginV3\obj\Debug\GetTokenLoginV3.pdb
+C:\Users\eders\Desktop\GetTokenLoginV3.58 2018\bin\Debug\GetTokenLoginV3.exe.config
+C:\Users\eders\Desktop\GetTokenLoginV3.58 2018\bin\Debug\GetTokenLoginV3.exe
+C:\Users\eders\Desktop\GetTokenLoginV3.58 2018\bin\Debug\GetTokenLoginV3.pdb
+C:\Users\eders\Desktop\GetTokenLoginV3.58 2018\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eders\Desktop\GetTokenLoginV3.58 2018\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eders\Desktop\GetTokenLoginV3.58 2018\obj\Debug\GetTokenLoginV3.csprojAssemblyReference.cache
+C:\Users\eders\Desktop\GetTokenLoginV3.58 2018\obj\Debug\GetTokenLoginV3.csproj.CoreCompileInputs.cache
+C:\Users\eders\Desktop\GetTokenLoginV3.58 2018\obj\Debug\GetTokenLoginV3.csproj.CopyComplete
+C:\Users\eders\Desktop\GetTokenLoginV3.58 2018\obj\Debug\GetTokenLoginV3.exe
+C:\Users\eders\Desktop\GetTokenLoginV3.58 2018\obj\Debug\GetTokenLoginV3.pdb
+C:\Users\eders\Desktop\GitHub\GetTokenLoginV3.24---2018\GetTokenLoginV3.24 2018\bin\Debug\GetTokenLoginV3.exe.config
+C:\Users\eders\Desktop\GitHub\GetTokenLoginV3.24---2018\GetTokenLoginV3.24 2018\bin\Debug\GetTokenLoginV3.exe
+C:\Users\eders\Desktop\GitHub\GetTokenLoginV3.24---2018\GetTokenLoginV3.24 2018\bin\Debug\GetTokenLoginV3.pdb
+C:\Users\eders\Desktop\GitHub\GetTokenLoginV3.24---2018\GetTokenLoginV3.24 2018\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eders\Desktop\GitHub\GetTokenLoginV3.24---2018\GetTokenLoginV3.24 2018\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eders\Desktop\GitHub\GetTokenLoginV3.24---2018\GetTokenLoginV3.24 2018\obj\Debug\GetTokenLoginV3.csproj.CoreCompileInputs.cache
+C:\Users\eders\Desktop\GitHub\GetTokenLoginV3.24---2018\GetTokenLoginV3.24 2018\obj\Debug\GetTokenLoginV3.csproj.CopyComplete
+C:\Users\eders\Desktop\GitHub\GetTokenLoginV3.24---2018\GetTokenLoginV3.24 2018\obj\Debug\GetTokenLoginV3.exe
+C:\Users\eders\Desktop\GitHub\GetTokenLoginV3.24---2018\GetTokenLoginV3.24 2018\obj\Debug\GetTokenLoginV3.pdb
