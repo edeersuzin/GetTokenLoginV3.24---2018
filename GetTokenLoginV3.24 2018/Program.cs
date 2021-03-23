@@ -1,7 +1,7 @@
 ﻿/*
 ===================================
 GetTokenLoginV3.24
-Credits: Shark -  Exploit Network 2018
+Credits: Shark, Coyote -  Exploit Network 2018
 ===================================
 */
 
